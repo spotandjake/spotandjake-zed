@@ -1,0 +1,7 @@
+id = "spotandjake-zed"
+name = "Spotandjake's Zed Config"
+version = "0.0.1"
+schema_version = 1
+authors = ["Spotandjake <spotandjake@hotmail.com>"]
+description = "Spotandjake's primary zed configuration"
+repository = "https://github.com/spotandjake/spotandjake-zed"
