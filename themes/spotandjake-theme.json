@@ -8,7 +8,7 @@
       "appearance": "dark",
       "style": {
         "background.appearance": "opaque",
-        "accents": [],
+        "accents": ["#FFD800", "#DA70D6", "#4865A0"],
         "border": "#5f7e97",
         "border.variant": "#5f7e97",
         "border.focused": "#122d42",
@@ -81,7 +81,7 @@
             "color": "#C792EA"
           },
           "boolean": {
-            "color": "#569cd6"
+            "color": "#569DD6FF"
           },
           "comment": {
             "color": "#608b4e",
@@ -109,7 +109,7 @@
             "color": "#dcdcaa"
           },
           "keyword": {
-            "color": "#d4d4d4"
+            "color": "#569DD6FF"
           },
           "label": {
             "color": "#DCDCAA"
@@ -127,7 +127,7 @@
             "color": "#c586c0"
           },
           "punctuation.bracket": {
-            "color": "#c586c0"
+            "color": "#FFD800"
           },
           "punctuation.delimiter": {
             "color": "#c586c0"
@@ -139,7 +139,7 @@
             "color": "#c586c0"
           },
           "string": {
-            "color": "#ce9178"
+            "color": "#CE9178FF"
           },
           "string.escape": {
             "color": "#d4d4d4"
@@ -154,7 +154,7 @@
             "color": "#C3E88D"
           },
           "tag": {
-            "color": "#f07178"
+            "color": "#569DD6FF"
           },
           "text.literal": {
             "color": "#ce9178"
