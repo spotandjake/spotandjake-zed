@@ -20,10 +20,10 @@
         "background": "#111B31",
         "element.background": "#7e57c2cc",
         "element.hover": "#011627",
-        "element.selected": "#98c1d9",
+        "element.selected": "#7295B366",
         "drop_target.background": "#011627",
         "ghost_element.hover": "#011627",
-        "ghost_element.selected": "#98c1d9",
+        "ghost_element.selected": "#7295B366",
         "text": "#d6deeb",
         "text.muted": "#5f7e97",
         "status_bar.background": "#011627",
@@ -191,7 +191,7 @@
         "version_control.modified": "#e2b93d",
         "version_control.conflict": "#ffeb95cc",
         "version_control.ignored": "#5f7e97",
-        "terminal.background": "#111B31",
+        "terminal.background": "#011627",
         "terminal.foreground": "#d6deeb"
       }
     }
