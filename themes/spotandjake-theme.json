@@ -75,6 +75,7 @@
         "ignored": "#395a75",
         "modified": "#e2b93d",
         "warning": "#b39554",
+        "warning.background": "#c18f41d3",
         "players": [],
         "syntax": {
           "attribute": {
@@ -171,6 +172,20 @@
           "variable.special": {
             "color": "#559CD6",
             "font_style": "italic"
+          },
+          "constant.comment.todo": {
+            "color": "#FF8C03"
+          },
+          "string.comment.info": {
+            "color": "#50a14fff",
+            "font_weight": 600,
+            "font_style": "italic"
+          },
+          "keyword.comment.warn": {
+            "color": "#c18401ff"
+          },
+          "property.comment.error": {
+            "color": "#ca1243ff"
           }
         },
         "panel.focused_border": "#122d42",
